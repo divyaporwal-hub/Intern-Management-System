@@ -1,0 +1,7 @@
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.csproj.AssemblyReference.cache
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.AssemblyInfoInputs.cache
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.AssemblyInfo.cs
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.csproj.CoreCompileInputs.cache
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Web development\Angular Js\Backend\InternAPI\InternAPI\obj\Debug\net6.0\InternAPI.MvcApplicationPartsAssemblyInfo.cache
